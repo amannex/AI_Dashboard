@@ -19,7 +19,7 @@ This project demonstrates advanced frontend skills, API integration, and AI impl
 
 ## 🖼️ Project Structure
 ```
-    /ai-dashboard
+/ai-dashboard
   /public
     index.html
     favicon.ico
