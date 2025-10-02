@@ -64,8 +64,6 @@ This project demonstrates advanced frontend skills, API integration, and AI impl
 
 ## ⚙️ Setup & Installation
 
-## ⚙️ Setup & Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ai-dashboard.git
@@ -90,6 +88,8 @@ This project demonstrates advanced frontend skills, API integration, and AI impl
     npm run dev   # if using Vite
     npm start     # if using CRA
 
+---
+
 ## 📌 Usage
 
 Login or sign up with your account
@@ -100,6 +100,8 @@ Ask the AI Assistant for insights, summaries, or recommendations
 
 View predictions and receive alerts in real-time
 
+---
+
 ## 🌟 Future Enhancements
 
 ✅ Voice-enabled AI Assistant
@@ -109,6 +111,8 @@ View predictions and receive alerts in real-time
 ✅ Social sharing of insights
 
 ✅ Integration with third-party APIs (finance, health, productivity trackers)
+
+---
 
 ## 🤝 Contributing
 
@@ -121,10 +125,14 @@ Create a feature branch
 
 Submit a pull request
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use and modify for personal or professional purposes.
+
+---
 
 ## 👨‍💻 Author
 
