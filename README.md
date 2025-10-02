@@ -19,34 +19,39 @@ This project demonstrates advanced frontend skills, API integration, and AI impl
 
 ## 🖼️ Project Structure
 ```
-    /src
-        /api
-            openai.js              // AI API calls
-            predictive.js          // Predictive analytics API calls
-        /components
-            Navbar.jsx
-            Sidebar.jsx
-            DashboardCard.jsx
-            ChartWidget.jsx
-            AIChatBot.jsx
-            Notification.jsx
-            DarkModeToggle.jsx
-            LoadingSpinner.jsx
-        /contexts
-            UserContext.jsx
-            DashboardContext.jsx
-        /pages
-            Login.jsx
-            Signup.jsx
-            Dashboard.jsx
-            Profile.jsx
-            NotFound.jsx
-        /utils
-            constants.js
-            helpers.js
-    App.jsx
-    index.jsx
-    styles.css
+    /ai-dashboard
+  /public
+    index.html
+    favicon.ico
+  /src
+    /api
+      openai.js              // Handles API calls to OpenAI or other AI services
+      predictive.js          // Optional: ML model API calls
+    /components
+      Navbar.jsx             // Top navigation bar
+      Sidebar.jsx            // Left navigation / menu
+      DashboardCard.jsx      // Individual cards for insights
+      ChartWidget.jsx        // Charts (Line, Bar, Pie)
+      AIChatBot.jsx          // AI assistant chat component
+      Notification.jsx       // Pop-up notifications or alerts
+      DarkModeToggle.jsx     // Switch between dark/light mode
+      LoadingSpinner.jsx     // Loading animation for async calls
+    /contexts
+      UserContext.jsx        // User auth & profile context
+      DashboardContext.jsx   // Dashboard layout & state management
+    /pages
+      Login.jsx              // Login page (Google/GitHub/Email)
+      Signup.jsx             // Signup page
+      Dashboard.jsx          // Main dashboard page
+      Profile.jsx            // User profile & settings
+      NotFound.jsx           // 404 page
+    /utils
+      constants.js           // Static constants (colors, chart types, etc.)
+      helpers.js             // Helper functions (formatting, sorting)
+    App.jsx                  // Main app with routing
+    index.jsx                // Entry point
+    styles.css               // Global styles (Tailwind or CSS modules)
+
 ```
 
 ---
