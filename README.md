@@ -18,36 +18,36 @@ This project demonstrates advanced frontend skills, API integration, and AI impl
 ---
 
 ## 🖼️ Project Structure
-
-/src
-  /api
-    openai.js              // AI API calls
-    predictive.js          // Predictive analytics API calls
-  /components
-    Navbar.jsx
-    Sidebar.jsx
-    DashboardCard.jsx
-    ChartWidget.jsx
-    AIChatBot.jsx
-    Notification.jsx
-    DarkModeToggle.jsx
-    LoadingSpinner.jsx
-  /contexts
-    UserContext.jsx
-    DashboardContext.jsx
-  /pages
-    Login.jsx
-    Signup.jsx
-    Dashboard.jsx
-    Profile.jsx
-    NotFound.jsx
-  /utils
-    constants.js
-    helpers.js
-  App.jsx
-  index.jsx
-  styles.css
-
+```
+    /src
+        /api
+            openai.js              // AI API calls
+            predictive.js          // Predictive analytics API calls
+        /components
+            Navbar.jsx
+            Sidebar.jsx
+            DashboardCard.jsx
+            ChartWidget.jsx
+            AIChatBot.jsx
+            Notification.jsx
+            DarkModeToggle.jsx
+            LoadingSpinner.jsx
+        /contexts
+            UserContext.jsx
+            DashboardContext.jsx
+        /pages
+            Login.jsx
+            Signup.jsx
+            Dashboard.jsx
+            Profile.jsx
+            NotFound.jsx
+        /utils
+            constants.js
+            helpers.js
+    App.jsx
+    index.jsx
+    styles.css
+```
 
 ---
 
